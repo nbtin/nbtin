@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **nbtin/nbtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Tin!</h1>
+<h3 align="center">A noob programmer from the Earth.</h3>
+
+<img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051">
+
+- 📫 How to reach me **baotin2402@gmail.com**
