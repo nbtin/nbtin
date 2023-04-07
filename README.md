@@ -2,14 +2,11 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nbtin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="mailto:baotin2402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.facebook.com/nbtin24">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/nbtin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nbtin&label=Profile%20views&color=42b883&style=flat" alt="nbtin"/> </p>
@@ -25,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Junior Computer Science student at VNUHCM - University of Science.
+- 🎓 I'm a Junior Computer Science student at VNUHCM - University of Science.
 
 - 🌱 Currently interested in **Machine learning** and **Deep learning**.
 
