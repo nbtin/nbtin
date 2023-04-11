@@ -57,6 +57,6 @@
 ### :fire: My Stats :
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbtin&show_icons=true&theme=dark&locale=en&layout=compact" alt="nbtin" />
-<img src="https://github-readme-stats.vercel.app/api?username=nbtin&show_icons=true&theme=dark&title_color=dddf5d&text_color=41c8b8&locale=en" alt="nbtin" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nbtin&show_icons=true&theme=dark&title_color=dddf5d&text_color=41c8b8&locale=en" alt="nbtin" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbtin&show_icons=true&theme=dark&locale=en&layout=compact" alt="nbtin" />
 </p>
