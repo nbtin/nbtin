@@ -22,9 +22,9 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 I'm a Junior Computer Science student at VNUHCM - University of Science.
+- 🎓 I'm a Senior Computer Science student at VNUHCM - University of Science.
 
-- 🌱 Currently interested in **Machine learning** and **Deep learning**.
+- 🌱 Currently interested in **Machine learning/Deep learning** and **Generative AI**.
 
 - :mailbox_with_mail: Contact me via [baotin2402@gmail.com](mailto:baotin2402@gmail.com)
 
