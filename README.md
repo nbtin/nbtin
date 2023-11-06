@@ -24,12 +24,12 @@
 
 - 🎓 I'm a Senior Computer Science student at VNUHCM - University of Science.
 
-- 🌱 Currently interested in **Machine learning/Deep learning** and **Generative AI**.
+- 🌱 Currently interested in **Software Engineering, Machine learning/Deep learning** and **Generative AI**.
 
 - :mailbox_with_mail: Contact me via [baotin2402@gmail.com](mailto:baotin2402@gmail.com)
 
 ---
-
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="left"> 
@@ -53,6 +53,7 @@
 </p>
 
 ---
+-->
 
 ### :fire: My Stats :
 
