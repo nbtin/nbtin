@@ -23,7 +23,7 @@
 
 - 🌱 Currently interested in **Software Engineering, Machine learning/Deep learning** and **Generative AI**.
 
-- :mailbox_with_mail: Contact me via [baotin2402@gmail.com](mailto:baotin2402@gmail.com)
+- :mailbox_with_mail: Contact me via [nbtin24@gmail.com](mailto:nbtin24@gmail.com)
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
