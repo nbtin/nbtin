@@ -13,12 +13,9 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tin!</h1>
-
-<div align="center">
+<!--<div align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051" width="600" height="300"/>
-</div>
-
----
+</div>-->
 
 ### :man_technologist: About Me :
 
@@ -28,7 +25,6 @@
 
 - :mailbox_with_mail: Contact me via [baotin2402@gmail.com](mailto:baotin2402@gmail.com)
 
----
 <!--
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -51,8 +47,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 </p>
-
----
 -->
 
 ### :fire: My Stats :
