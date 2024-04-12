@@ -21,7 +21,7 @@
 
 - 🎓 I'm a Senior Computer Science student at VNUHCM - University of Science.
 
-- 🌱 Currently interested in **Software Engineering, Machine learning/Deep learning** and **Generative AI**.
+- 🌱 Currently interested in **Software Engineering, Machine learning/Deep learning**, **Generative AI** and **Fake News detection**.
 
 - :mailbox_with_mail: Contact me via [nbtin24@gmail.com](mailto:nbtin24@gmail.com)
 
