@@ -23,7 +23,7 @@
 
 - 🌱 Currently interested in **Software Engineering, Machine learning/Deep learning**, **Generative AI** and **Fake News detection**.
 
-- :mailbox_with_mail: Contact me via [nbtin24@gmail.com](mailto:nbtin24@gmail.com)
+- :mailbox_with_mail: Contact me via [nbtin@selab.hcmus.edu.vn](mailto:nbtin@selab.hcmus.edu.vn)
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
