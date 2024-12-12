@@ -19,9 +19,9 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 I'm a Senior Computer Science student at VNUHCM - University of Science.
+- 🎓 I am a recent Computer Science graduate at VNUHCM - University of Science.
 
-- 🌱 Currently interested in **Software Engineering, Machine learning/Deep learning**, **Generative AI** and **Fake News detection**.
+- 🌱 Currently interested in **Data** and **ML/DL**.
 
 - :mailbox_with_mail: Contact me via [nbtin@selab.hcmus.edu.vn](mailto:nbtin@selab.hcmus.edu.vn)
 
